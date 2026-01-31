@@ -1,5 +1,5 @@
 
-# ✈️ Airline-Sentiment-Analysis
+# ✈️ Airline-Project
 
 > **Extracting Passenger Voices**: A sentiment analysis of airline reviews using NLP (VADER, RoBERTa) to surface traveler feedback, trends, and actionable insights.
 
